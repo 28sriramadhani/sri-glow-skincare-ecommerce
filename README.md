@@ -26,6 +26,7 @@ Sistem ini mempermudah pelanggan dalam menjelajahi katalog produk, melakukan pem
 
 ### Halaman Admin (Manajemen Produk)
 ![Halaman Admin](screenshots/admin-panel.png)
+[Halaman Admin](screenshots/produk.png)
 
 ## 👤 Developer
 **Sri Ramadhani**  
