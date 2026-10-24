@@ -19,7 +19,7 @@ Sistem ini dibangun untuk memberikan pengalaman berbelanja yang mudah, interakti
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap (Responsive Design)
 - **Backend**: PHP 
 - **Database**: MySQL
-   Cara Menjalankan
+   ##Cara Menjalankan
 1. Import file `database.sql` ke MySQL/phpMyAdmin
 2. Letakkan folder project di `htdocs` XAMPP
 3. Jalankan XAMPP (Apache + MySQL)
