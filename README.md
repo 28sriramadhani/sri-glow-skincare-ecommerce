@@ -33,6 +33,6 @@ Sistem ini dibangun untuk memberikan pengalaman berbelanja yang mudah, interakti
 
 ## 👤 Developer
 **Sri Ramadhani**  
-S1 Informatika — Universitas Almuslim  
+S1 Informatika 
 📧 sriramadani596@gmail.com
 
