@@ -38,6 +38,11 @@ Sistem ini dibangun untuk memberikan pengalaman berbelanja yang mudah, interakti
 ### Halaman Produk
 ![Halaman Admin](screenshots/produk.png)
 
+### Database
+![Halaman Database](screenshots/database.png)
+
+
+
 ## 👤 Developer
 **Sri Ramadhani**  
 S1 Informatika 
