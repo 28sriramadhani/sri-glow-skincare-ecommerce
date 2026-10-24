@@ -35,6 +35,7 @@ Sistem ini dibangun untuk memberikan pengalaman berbelanja yang mudah, interakti
 
 ### Halaman Admin (Manajemen Produk)
 ![Halaman Admin](screenshots/admin-panel.png)
+### Halaman Produk
 ![Halaman Admin](screenshots/produk.png)
 
 ## 👤 Developer
