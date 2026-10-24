@@ -1,5 +1,8 @@
 # 🛒 Sistem E-Commerce "Sri Glow Skincare"
 
+"Catatan: Foto produk dan aset merek yang digunakan dalam proyek ini hanya berfungsi sebagai data simulasi akademis (dummy data) untuk keperluan ilustrasi sistem dan tidak digunakan untuk tujuan komersial."
+
+
 ## 📌 Deskripsi Proyek
 Sebuah platform E-Commerce berbasis web yang dirancang khusus untuk penjualan produk kecantikan dan perawatan kulit "Sri Glow Skincare". Proyek ini dikembangkan pada Semester 5 sebagai pemenuhan tugas besar mata kuliah Pemrograman Web / Rekayasa Perangkat Lunak di Universitas Almuslim.
 
