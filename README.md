@@ -39,9 +39,10 @@ Source code tersedia atas permintaan. Silakan hubungi sriramadani596@gmail.com.
 ![Halaman Database](screenshots/database.png)
 
 
-
 ## 👤 Developer
-**Sri Ramadhani**  
-S1 Informatika 
+Sri Ramadhani
+S1 Informatika — Universitas Almuslim (2026)
+IPK: 3,90 | Cumlaude | Wisudawan Terbaik 2026
 📧 sriramadani596@gmail.com
+
 
