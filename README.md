@@ -20,11 +20,8 @@ Sistem ini dibangun untuk memberikan pengalaman berbelanja yang mudah, interakti
 - **Backend**: PHP 
 - **Database**: MySQL
   
-   ## Cara Menjalankan
-1. Import file `database.sql` ke MySQL/phpMyAdmin
-2. Letakkan folder project di `htdocs` XAMPP
-3. Jalankan XAMPP (Apache + MySQL)
-4. Akses: `http://localhost/nama-folder`
+ ## 📂 Source Code
+Source code tersedia atas permintaan. Silakan hubungi sriramadani596@gmail.com.
 
 ## 📸 Screenshot Sistem
 ### Halaman Utama & Katalog Produk
